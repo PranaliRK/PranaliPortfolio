@@ -1,0 +1,41 @@
+main{
+height: auto;
+width: 100%;
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color:grey;
+flex-wrap: wrap;
+flex-direction: column;
+}
+
+h1{
+    height: auto;
+    width: 100%;
+    text-align: center;
+
+}
+#main{
+    height:auto;
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin: 10px;
+    
+}
+.main1{
+    height: auto;
+    width: 150px;
+    background: lightgrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+
+}

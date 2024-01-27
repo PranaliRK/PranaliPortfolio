@@ -1,0 +1,76 @@
+
+footer{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: black;
+    color: white;
+    flex-wrap: wrap;
+}
+.div1{
+    height: 250px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+.div2{
+    height: 100px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.sec{
+    height: auto;
+    width: 80px;
+    display: flex;
+    background: transparent;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+button{
+    
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    background: #808080;
+    color: white;
+    border-color: white;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.get{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    
+}
+.div1 p{
+    font-weight: bold;
+}
+.get1{
+    position: relative;
+    right:15px;
+   
+  
+}
+.get2{
+    position: relative;
+    right:20px;
+    padding-bottom: 10px;
+    
+}

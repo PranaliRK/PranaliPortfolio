@@ -1,0 +1,26 @@
+section{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background: #F0F8FF;
+}
+.sec1{
+    height: 200px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec1 button{
+    height: 40px;
+    width: 150px;
+    background: #808080;
+    color: #ffffff;
+    
+    border: 2px solid #ffffff;
+    padding: 10px 10px 10px 10px;
+}

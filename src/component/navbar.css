@@ -1,0 +1,82 @@
+
+nav{
+    height: auto;
+    width: 100%;
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    gap: 30px;
+}
+.div1,.div2{
+height: 70px;
+width: 70%;
+
+
+}
+#div2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+.li1{
+    background: -webkit-linear-gradient(red,#000,#fff,blue,green,orange,purple,pink,olive);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-position: 50%;
+    font-size: 60px;
+    text-align: center;
+}
+body {
+  transition: background-color 0.3s ease;
+}
+
+/* Dark Mode Styles */
+body.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Light Mode Styles */
+body.light-mode {
+  background-color: #fff;
+  color: #333;
+}
+
+/* Toggle Button Styles */
+.toggle-btn {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 10px;
+  background-color: #ccc;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+
+.toggle-btn i {
+  margin-right: 5px;
+}
+
+.light-theme {
+  background-color: #fff;
+  color: #333;
+}
+
+.dark-theme {
+  background-color: #333;
+  color: #fff;
+}
+
+
