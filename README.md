@@ -5,7 +5,7 @@
 
 
 # ABOUT ME
-You can download my resume.
+ # You can download my resume.
 <img width="270" alt="Screenshot 2024-01-28 093810" src="https://github.com/PranaliRK/PranaliPortfolio/assets/93364124/e490781b-a3da-402c-8395-fb9f3d196f77">
 
 # SKILS
