@@ -11,10 +11,10 @@ const footer =()=>{
               </div>
               <div className='div2' >
                 <button>WEB DEVELOPER</button>
-                <button>BDAY WEBSITE</button>
+                <button>MOVIE WEBSITE</button>
                 <button>PIANIO</button>
-                <button>E COOMERSE WEBSITE</button>
-                <button>WHETHERE WEBSITE</button>
+                <button>E COMMERCE WEBSITE</button>
+                <button>WEATHER WEBSITE</button>
                 <button>PORTFOLIO</button>
 
               </div >
